@@ -1,0 +1,2 @@
+# wld
+My own Cryptocurrency .
